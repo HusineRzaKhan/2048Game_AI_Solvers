@@ -2,6 +2,13 @@
 
 This is an implementation of the popular 2048 game with two different AI solving strategies: Alpha-Beta Pruning and Min-Max algorithms. The game features both manual play mode and AI-assisted solving.
 
+## 💖 Support my Open-Source Journey
+
+I am a software engineer and student dedicated to building tools that give users back their digital agency. If my work has saved you time, solved a technical headache, or improved your workflow, consider supporting my independent development!
+
+☕ **[Support my work on Patreon (Buy Me a Coffee)](https://patreon.com/HussainRazaKhan)** or 
+    **NayaPay ID:** `HusineRzaKhan@nayapay`
+
 ## Creator
 - Hussain Raza Khan
 - HussainRazaKhanBaloch@gmail.com
